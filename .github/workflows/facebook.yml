@@ -1,0 +1,26 @@
+name: Facebook
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: facebook
+jobs:
+  envoyer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Envoyer les Reels arrivés à leur heure
+        run: python3 facebook/envoyer.py
+        env:
+          MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
+          MAKE_APIKEY: ${{ secrets.MAKE_APIKEY }}
+      - name: Noter les envois
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add facebook/file.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Facebook : envoi"
+          git pull -q --rebase && git push -q
