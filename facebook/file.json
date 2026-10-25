@@ -202,12 +202,6 @@
   "description": "Vos lasagnes au bœuf… c'était 100 % du cheval 🐴\nEn 2013, 4,5 millions de plats « au bœuf » vendus dans 13 pays contenaient du cheval. Un négociant néerlandais efface « cheval » des factures, Spanghero change le code de douane… Et le nom de sa société, Draap, lu à l'envers donne « paard » : cheval en néerlandais.\nVous auriez senti la différence, oui ou non ? Source : Wikipédia\n\n#arnaque #histoirevraie #lasagnes #scandale #lesaviezvous"
  },
  {
-  "slug": "hoover-vols",
-  "quand": 1793035800,
-  "file_url": "https://github.com/alkorackx/plan-large-videos/releases/download/hoover-vols/hoover-vols.mp4",
-  "description": "Achetez un aspirateur, on vous offre deux billets d'avion pour l'Amérique ✈️\nEn 1992, Hoover promet deux vols gratuits pour 100 livres d'achat. Le plan : un parcours si compliqué que presque personne ne parte. Sauf que les billets valent six fois l'aspirateur : Hoover attendait 50 000 demandes, il en reçoit environ 300 000. Facture : 48 millions de livres, trois dirigeants renvoyés.\nVous auriez acheté l'aspirateur, ou flairé le piège ?\nSources : Wikipédia, Marketing Week\nLe prix caché, n° 9\n\n#leprixcache #hoover #lesaviezvous #marketing #histoirevraie"
- },
- {
   "slug": "or-sarkozy",
   "quand": 1793035800,
   "file_url": "https://github.com/alkorackx/plan-large-videos/releases/download/or-sarkozy/or-sarkozy.mp4",
@@ -236,5 +230,11 @@
   "quand": 1793381400,
   "file_url": "https://github.com/alkorackx/plan-large-videos/releases/download/kodak-numerique/kodak-numerique.mp4",
   "description": "Kodak a inventé l'appareil photo numérique… et l'a gardé secret 📷\nEn 1975, Steven Sasson, jeune ingénieur de Kodak, fabrique un appareil de 3,6 kilos qui met 23 secondes à enregistrer chaque photo sur cassette. Les patrons lui demandent « pourquoi ? », et le public ne le découvre qu'en 2000. En 2012, Kodak fait faillite et vend ses brevets 525 millions de dollars… notamment à Apple, Google et Facebook.\nPatrons aveugles ou invention trop en avance ?\nSources : Wikipédia, New York Times\nLe prix caché, n° 5\n\n#leprixcache #kodak #lesaviezvous #photo #histoirevraie"
+ },
+ {
+  "slug": "hoover-vols",
+  "quand": 1793467800,
+  "file_url": "https://github.com/alkorackx/plan-large-videos/releases/download/hoover-vols/hoover-vols.mp4",
+  "description": "Achetez un aspirateur, on vous offre deux billets d'avion pour l'Amérique ✈️\nEn 1992, Hoover promet deux vols gratuits pour 100 livres d'achat. Le plan : un parcours si compliqué que presque personne ne parte. Sauf que les billets valent six fois l'aspirateur : Hoover attendait 50 000 demandes, il en reçoit environ 300 000. Facture : 48 millions de livres, trois dirigeants renvoyés.\nVous auriez acheté l'aspirateur, ou flairé le piège ?\nSources : Wikipédia, Marketing Week\nLe prix caché, n° 9\n\n#leprixcache #hoover #lesaviezvous #marketing #histoirevraie"
  }
 ]
